@@ -117,7 +117,7 @@ void MainWindow::on_actionUndo_triggered()      //undo
 void MainWindow::on_actionAbout_Notepad_triggered()     //about
 {
 
-    QMessageBox::about(this,"About","This Notepad is created by: \n\nKrikita Bhatta\nKripa Sherestha\nSamikshya Sherestha\nSpriha Sharma\nRakshya Aryal\nRojina Adhikari" );
+    QMessageBox::about(this,"About","This Notepad is created by: \n\nDevraj Chapai" );
 }
 
 
